@@ -9,8 +9,6 @@ namespace TrabalhoEsteban.Exercícios
     {
         public void Executar()
         {
-            Console.WriteLine("Executando o exercício 1067, digite um número para começar:");
-
             int X = int.Parse(Console.ReadLine());
             for (int i = 1; i <= X; i++)
             {
