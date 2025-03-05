@@ -9,7 +9,6 @@ namespace TrabalhoEsteban.Exercícios
     {
         public void Executar()
         {
-            Console.WriteLine("Executando o exercício 1071, digite um número para começar:");
             int X,
                 Y,
                 min,
